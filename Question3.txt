@@ -1,0 +1,32 @@
+1. Which of these operators is used to allocate memory to array variable in Java?
+a. malloc
+b. alloc
+c. new
+d. new malloc
+)2. If an expression contains double, int, float, long, then whole expression
+    will promoted into which of these data types?
+a. long
+b. int
+c. double
+d. float
+)3. What is Truncation is Java?
+a. Floating-point value assigned to an integer type.
+b. Integer value assigned to floating type.
+c. Floating-point value assigned to an Floating type.
+d. Integer value assigned to floating type.
+)4. An expression involving byte, int, and literal numbers is promoted to which
+    of these?
+a. int
+b. long
+c. byte
+d. float
+)5. What is the error in this code?
+byte b = 50;
+b = b * 50;
+
+a. b can not contain value 100, limited by its range.
+b. * operator has converted b * 50 into int, which can not be converted to byte
+   without casting.
+c. b can not contain value 50.
+d. No error in this code
+)

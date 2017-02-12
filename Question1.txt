@@ -1,0 +1,27 @@
+1. Which reference modifier is used to define reference variable?
+a. &
+b. $
+c. #
+d. none of the mentioned
+)2. Identify the correct sentence regarding inequality between reference and 
+    pointer.
+a. we can not create the array of reference.
+b. we can create the Array of reference.
+c. we can use reference to reference.
+d. none of the mentioned
+)3. Function overloading is also similar to which of the following?
+a. operator overloading
+b. constructor overloading
+c. destructor overloading
+d. none of the mentioned
+)4. The size_t integer type in C++ is?
+a. Unsigned integer of at least 64 bits
+b. Signed integer of at least 16 bits
+c. Unsigned integer of at least 16 bits
+d. Signed integer of at least 64 bits
+)5. Where does the execution of the program starts?
+a. user-defined function
+b. main function
+c. void function
+d. none of the mentioned
+)

@@ -1,0 +1,26 @@
+1. Which of the following is not a valid variable name declaration?
+a. int __a3;
+b. int __3a;
+c. int __A3;
+d. None of the mentioned
+)2. All keywords in C are in
+a. LowerCase letters
+b. UpperCase letters
+c. CamelCase letters
+d. None
+)3. The format identifier ‘%i’ is also used for _____ data type?
+a. char
+b. int
+c. float
+d. double
+)4. What is the size of an int data type?
+a. 4 Bytes
+b. 8 Bytes
+c. Depends on the system/compiler
+d. Cannot be determined
+)5. #include <stdio.h> is called
+a. Preprocessor directive
+b. Inclusion directive
+c. File inclusion directive
+d. None of the mentioned
+)
